@@ -12,7 +12,10 @@
  ## PROCEDURE
  1.	Open Autodesk Fusion and start a New Sketch on the XY plane.
     <img width="583" height="561" alt="Screenshot 2026-10-05 101307" src="https://github.com/user-attachments/assets/79899da5-2a46-42ef-90d9-2d07194ad471" />
- 2.Draw horizontal( 70 cm to the left from the origin and 70 cm to the right from the origin ) and vertical (60 cm above and 60 cm below the origin) Construction Lines intersecting at the origin (0,0) to serve as your reference centerlines.
+
+ 
+ 2.Draw horizontal( 70 cm to the left from the origin and 70 cm to the right from the origin ) and vertical (60 cm above and 60 cm below the origin) 
+ Construction Lines intersecting at the origin (0,0) to serve as your reference centerlines.
 
  3.At the center origin, draw four circles with the following diameters:
    Inner circle of diameter 32.00
@@ -20,16 +23,16 @@
    Third circle of diameter  64.00
    Outer circle of diameter of 80.00
 
-4. Add the internal rectangular slot/rib features inside the center rings, using the 6.00 width dimension across the vertical centerline. 
+ 4. Add the internal rectangular slot/rib features inside the center rings, using the 6.00 width dimension across the vertical centerline. 
 
-5. Create the outer circular feature sets (each containing a diameter 30.00 inner hole and a diameter of  42.00 outer boundary circle).
+ 5. Create the outer circular feature sets (each containing a diameter 30.00 inner hole and a diameter of  42.00 outer boundary circle).
  Position them symmetrically using the given location dimensions:
  Top-left/right feature centers are located 70.00 (horizontal) and 100.00 (vertical) from the center axes.
  Additional vertical positioning is set at 60.00 and horizontal offset at 50.00 for the inner/upper layout features.
   Lower features mirror this layout with corresponding vertical spacing of -100.00.
 
-6.Use the Arc or Circle tool with Tangent constraints to connect the outer lobes smoothly into the central body structure, matching the continuous profile shown in blue. 
-7.Use the Trim tool to remove overlapping or unwanted interior line segments.
+ 6.Use the Arc or Circle tool with Tangent constraints to connect the outer lobes smoothly into the central body structure, matching the continuous profile shown in blue. 
+ 7.Use the Trim tool to remove overlapping or unwanted interior line segments.
 
  <img width="407" height="470" alt="Screenshot 2026-10-05 101335" src="https://github.com/user-attachments/assets/86347e6f-1012-4d5f-8a99-91f17f9e47b8" />
 
