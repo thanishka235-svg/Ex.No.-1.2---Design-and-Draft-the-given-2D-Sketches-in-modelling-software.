@@ -34,7 +34,7 @@
  6.Use the Arc or Circle tool with Tangent constraints to connect the outer lobes smoothly into the central body structure, matching the continuous profile shown in blue. 
  
  7.Use the Trim tool to remove overlapping or unwanted interior line segments.
-        <img width="407" height="470" alt="Screenshot 2026-10-05 101335" src="https://github.com/user-attachments/assets/86347e6f-1012-4d5f-8a99-91f17f9e47b8" />
+   <img width="407" height="470" alt="Screenshot 2026-10-05 101335" src="https://github.com/user-attachments/assets/86347e6f-1012-4d5f-8a99-91f17f9e47b8" />
 
 
 8.Verify that all sketches turn black, meaning the profile is fully constrained with all specified dimensions 
@@ -49,12 +49,8 @@
 
 
   <img width="471" height="529" alt="Screenshot 2026-10-05 101440" src="https://github.com/user-attachments/assets/65ba7552-f8dc-4a7e-b0af-709d3a38710f" />
-
- 
- 
- ## SKETCH
+## SKETCH
 <img width="999" height="729" alt="Screenshot 2026-10-09 103035" src="https://github.com/user-attachments/assets/20910bb2-2da5-492a-94d7-2ff9b9cb36e5" />
-
  ## OUTPUT
  <img width="1012" height="708" alt="Screenshot 2026-10-11 224400" src="https://github.com/user-attachments/assets/16011ef4-c7ba-463b-9c52-9ac93d6da49d" />
 
