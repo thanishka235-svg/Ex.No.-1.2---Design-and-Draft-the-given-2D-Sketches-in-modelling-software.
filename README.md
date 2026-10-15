@@ -32,16 +32,22 @@
   Lower features mirror this layout with corresponding vertical spacing of -100.00.
 
  6.Use the Arc or Circle tool with Tangent constraints to connect the outer lobes smoothly into the central body structure, matching the continuous profile shown in blue. 
+ 
  7.Use the Trim tool to remove overlapping or unwanted interior line segments.
 
  <img width="407" height="470" alt="Screenshot 2026-10-05 101335" src="https://github.com/user-attachments/assets/86347e6f-1012-4d5f-8a99-91f17f9e47b8" />
 
- 8.Verify that all sketches turn black, meaning the profile is fully constrained with all specified dimensions (Ø30, Ø32, Ø40, Ø42, Ø64, Ø80, 70.00, 60.00, 50.00, 100.00, 6.00).
+ 8.Verify that all sketches turn black, meaning the profile is fully constrained with all specified dimensions 
+ (Ø30, Ø32, Ø40, Ø42, Ø64, Ø80, 70.00, 60.00, 50.00, 100.00, 6.00).
+
+ 
  9.Click Finish Sketch when complete.
  <img width="629" height="296" alt="Screenshot 2026-10-05 101402" src="https://github.com/user-attachments/assets/38554370-809d-4266-a117-f7cfd2f3db7e" />
 
  10.After finishing the sketch switch to drawing mode to plot the sketch in ISO Standard.
 <img width="440" height="502" alt="Screenshot 2026-10-11 175042" src="https://github.com/user-attachments/assets/48c0d40c-13bc-458e-847e-291e09f65690" />
+
+
 
 <img width="471" height="529" alt="Screenshot 2026-10-05 101440" src="https://github.com/user-attachments/assets/65ba7552-f8dc-4a7e-b0af-709d3a38710f" />
 
