@@ -42,14 +42,13 @@
  
  9.Click Finish Sketch when complete.
 
-        <img width="629" height="296" alt="Screenshot 2026-10-05 101402" src="https://github.com/user-attachments/assets/38554370-809d-4266-a117-f7cfd2f3db7e" />
+  <img width="629" height="296" alt="Screenshot 2026-10-05 101402" src="https://github.com/user-attachments/assets/38554370-809d-4266-a117-f7cfd2f3db7e" />
 
- 10.After finishing the sketch switch to drawing mode to plot the sketch in ISO Standard.
-       <img width="440" height="502" alt="Screenshot 2026-10-11 175042" src="https://github.com/user-attachments/assets/48c0d40c-13bc-458e-847e-291e09f65690" />
+ 10.After finishing the sketch switch to drawing mode to plot the sketch in ISO Standard
+ <img width="440" height="502" alt="Screenshot 2026-10-11 175042" src="https://github.com/user-attachments/assets/48c0d40c-13bc-458e-847e-291e09f65690" />
 
 
-
-       <img width="471" height="529" alt="Screenshot 2026-10-05 101440" src="https://github.com/user-attachments/assets/65ba7552-f8dc-4a7e-b0af-709d3a38710f" />
+  <img width="471" height="529" alt="Screenshot 2026-10-05 101440" src="https://github.com/user-attachments/assets/65ba7552-f8dc-4a7e-b0af-709d3a38710f" />
 
  
  
